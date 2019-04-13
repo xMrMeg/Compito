@@ -1,0 +1,103 @@
+commit beb078a180d5398f6c73a198dbf72eacefe0e5d3
+Merge: 8e4ad6a d870f06
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:34:53 2019 +0200
+
+    Fusione ramo Home
+
+commit 8e4ad6af21e9acf791064e7f781e58b088a278c6
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:28:40 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..0a4cfdb 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+\ No newline at end of file
+
+commit d870f065f71f259c46085c851294fcb935064744
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:26:54 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f634001 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:red;}
+\ No newline at end of file
+
+commit 7eec209e5dcfdf020be0310bf8f3d367c8a13afd
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:24:10 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/image.PNG b/img/image.PNG
+new file mode 100644
+index 0000000..21508ad
+Binary files /dev/null and b/img/image.PNG differ
+
+commit 45c8989f472da537af4fbf2dc31655ba13b8d5fd
+Merge: 03526b1 0243c3a
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:21:22 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 0243c3aba75d8a9891f8bdf90876a72d6a4fef38
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:18:43 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit fe4c7e8262a198783e70e9f447a13d7c6c87f2b0
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:16:35 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 20186514b9d431adf0085b2b1cffb6aee5b708e6
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:15:10 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/GATTO.PNG b/img/GATTO.PNG
+new file mode 100644
+index 0000000..5321b81
+Binary files /dev/null and b/img/GATTO.PNG differ
+
+commit 03526b1a54f056298dd1a16c06fd5071113e5b59
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:12:22 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 5933d7a04fb388a58c2d14f30f1b9bb545b8fe47
+Author: xMrMeg <studente.megli.giovanni@gmail.com>
+Date:   Sat Apr 13 11:07:39 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
